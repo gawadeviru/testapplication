@@ -1,5 +1,7 @@
 <?php 
+
 echo "i am in jbasdjsakjd";
+echo "Rahul<br/>";
 	for($row=1;$row<=5;$row++){
 		 $star = $row +($row-1);
 		 $k=(5-$star)+1;
